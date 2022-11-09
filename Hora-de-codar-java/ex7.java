@@ -15,22 +15,19 @@ public class Main {
 		
 		
 		
-	        if ( a == b) {
-	        	System.out.println("O numero é igual.");
+	      
 	        }
 	    	if (a < b && c < a) {
 	    	soma = a + b;	
 	    	System.out.println("A soma dos maiores é " + soma);
 	    	}   
-	        if (b == c) {
-	        	System.out.println("O numero é igual.");
+	 
 	        }
 	    	else if (b < c && a < c) {
 	        soma = a + c;
 	    	System.out.println("A soma dos maiores é "+ soma);
 	    }
-	        if (c == a) {
-	        	System.out.println("O numero é igual.");
+	    
 	        }
 	        else {
 	         soma = a + c;
